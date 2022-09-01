@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Github! Everything you will find here is just for fun so enjoy :) For more information check out my website at www.dyadica.co.uk. If its down then have no fear; I'm currently moving it over to pages!
+Welcome to my Github! Everything you will find here is just for fun so enjoy :) For more information check out my website at https://dyadica.github.io
 
 <!--
 **dyadica/dyadica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
